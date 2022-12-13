@@ -1,0 +1,15 @@
+C:\Users\Coding Dojo\Desktop\Algos\banana\bin\Debug\net6.0\banana.exe
+C:\Users\Coding Dojo\Desktop\Algos\banana\bin\Debug\net6.0\banana.deps.json
+C:\Users\Coding Dojo\Desktop\Algos\banana\bin\Debug\net6.0\banana.runtimeconfig.json
+C:\Users\Coding Dojo\Desktop\Algos\banana\bin\Debug\net6.0\banana.dll
+C:\Users\Coding Dojo\Desktop\Algos\banana\bin\Debug\net6.0\banana.pdb
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.csproj.AssemblyReference.cache
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.AssemblyInfoInputs.cache
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.AssemblyInfo.cs
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.csproj.CoreCompileInputs.cache
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.dll
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\refint\banana.dll
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.pdb
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\banana.genruntimeconfig.cache
+C:\Users\Coding Dojo\Desktop\Algos\banana\obj\Debug\net6.0\ref\banana.dll
